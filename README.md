@@ -35,9 +35,9 @@ Python 3 is required.
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/F0472-cyber/network-speed-test.git
-```bash
+
 
 ```markdown
 ## Author
