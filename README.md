@@ -31,9 +31,16 @@ The project was created as a learning project to practice Python, HTTP requests,
 ## Requirements
 
 Python 3 is required.
+## Installation
 
-Install the required dependencies with:
-pip install -r requirements.txt
+Clone the repository:
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/F0472-cyber/network-speed-test.git
+
+```markdown
+## Author
+
+F0472-cyber
+
+GitHub: https://github.com/F0472-cyber
